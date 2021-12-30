@@ -1,12 +1,12 @@
 import React from "react";
-import TodoFeature from "./features/Todo";
 // import "./App.css";
+import TodoFeature from "./features/Todo";
 
 function App() {
   return (
     <div className="App">
-      <TodoFeature/>
-    </div>
+    <TodoFeature />
+      </div>
   );
 }
 
